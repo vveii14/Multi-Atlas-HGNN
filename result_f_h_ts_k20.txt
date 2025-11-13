@@ -82,3 +82,9 @@ _datasetADHD_modef_h_ts_k20_edge_dir_prefixts_pearson_correlation_atlasAAL116_we
 _datasetADHD_modef_h_ts_k20_edge_dir_prefixts_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k20_
 {'accuracy': np.float64(0.5832258064516129), 'auroc': np.float64(0.5886520146520147), 'sensitivity': np.float64(0.3400480769230769), 'specificity': np.float64(0.7558241758241758), 'f1_score': np.float64(0.38316436131839626)}
 --------------------------------
+_datasetADHD_modef_h_ts_k20_edge_dir_prefixts_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k20_
+{'accuracy': np.float64(0.584516129032258), 'auroc': np.float64(0.6201265262515262), 'sensitivity': np.float64(0.4017788461538462), 'specificity': np.float64(0.7135042735042736), 'f1_score': np.float64(0.44008934733222815)}
+--------------------------------
+_datasetADHD_modef_h_ts_k20_edge_dir_prefixts_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k20_
+{'accuracy': np.float64(0.5948387096774194), 'auroc': np.float64(0.6252208485958486), 'sensitivity': np.float64(0.5891346153846154), 'specificity': np.float64(0.5993894993894994), 'f1_score': np.float64(0.543496073067429)}
+--------------------------------
