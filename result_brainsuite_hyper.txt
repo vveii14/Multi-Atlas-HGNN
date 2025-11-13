@@ -1,0 +1,3 @@
+_datasetADHD_modebrainsuite_hyper_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k3_
+{'accuracy': np.float64(0.583703817445888), 'auroc': np.float64(0.5925850264956584), 'sensitivity': np.float64(0.3180430446131492), 'specificity': np.float64(0.7647832646495956), 'f1_score': np.float64(0.35463447472068166)}
+--------------------------------

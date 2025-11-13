@@ -1,0 +1,465 @@
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5961290322580645), 'auroc': np.float64(0.6255514346764347), 'sensitivity': np.float64(0.5421153846153846), 'specificity': np.float64(0.6343833943833943), 'f1_score': np.float64(0.5216434908292482)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5870967741935484), 'auroc': np.float64(0.6188684371184371), 'sensitivity': np.float64(0.38096153846153846), 'specificity': np.float64(0.733992673992674), 'f1_score': np.float64(0.394985103115071)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5832258064516129), 'auroc': np.float64(0.602628663003663), 'sensitivity': np.float64(0.44875), 'specificity': np.float64(0.6785103785103785), 'f1_score': np.float64(0.4498259353402817)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6012903225806452), 'auroc': np.float64(0.6172568681318682), 'sensitivity': np.float64(0.4498557692307692), 'specificity': np.float64(0.7098901098901098), 'f1_score': np.float64(0.44465234491747935)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5793548387096774), 'auroc': np.float64(0.6254961843711844), 'sensitivity': np.float64(0.5559615384615385), 'specificity': np.float64(0.5977289377289378), 'f1_score': np.float64(0.48355784106250504)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6064516129032258), 'auroc': np.float64(0.6282489316239317), 'sensitivity': np.float64(0.5173076923076924), 'specificity': np.float64(0.6696703296703297), 'f1_score': np.float64(0.5156246028060762)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6073211233211234), 'sensitivity': np.float64(0.4243269230769231), 'specificity': np.float64(0.7206349206349206), 'f1_score': np.float64(0.4538248897938715)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.584516129032258), 'auroc': np.float64(0.6084548229548229), 'sensitivity': np.float64(0.42668269230769235), 'specificity': np.float64(0.6960195360195361), 'f1_score': np.float64(0.4569839279738849)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193548), 'auroc': np.float64(0.6355325091575093), 'sensitivity': np.float64(0.5952884615384615), 'specificity': np.float64(0.6014163614163615), 'f1_score': np.float64(0.5491342853264344)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6336945970695972), 'sensitivity': np.float64(0.396875), 'specificity': np.float64(0.7428571428571428), 'f1_score': np.float64(0.4032808540271227)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.567741935483871), 'auroc': np.float64(0.5999247557997559), 'sensitivity': np.float64(0.4827403846153846), 'specificity': np.float64(0.6277655677655677), 'f1_score': np.float64(0.4754673702210198)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6090322580645161), 'auroc': np.float64(0.6225143467643468), 'sensitivity': np.float64(0.5053846153846153), 'specificity': np.float64(0.6833699633699634), 'f1_score': np.float64(0.5004221509596161)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5832258064516129), 'auroc': np.float64(0.6116246947496947), 'sensitivity': np.float64(0.4578365384615385), 'specificity': np.float64(0.6717216117216116), 'f1_score': np.float64(0.473696300782915)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5948387096774194), 'auroc': np.float64(0.6254761904761905), 'sensitivity': np.float64(0.47764423076923074), 'specificity': np.float64(0.679023199023199), 'f1_score': np.float64(0.47290788296947184)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5948387096774194), 'auroc': np.float64(0.6127832722832722), 'sensitivity': np.float64(0.378125), 'specificity': np.float64(0.7494505494505495), 'f1_score': np.float64(0.3804332494693276)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6113427960927961), 'sensitivity': np.float64(0.5205288461538462), 'specificity': np.float64(0.6543589743589744), 'f1_score': np.float64(0.5161071412332443)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6129032258064516), 'auroc': np.float64(0.6359337606837607), 'sensitivity': np.float64(0.47110576923076924), 'specificity': np.float64(0.7140415140415142), 'f1_score': np.float64(0.491984964188354)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.612989010989011), 'sensitivity': np.float64(0.48365384615384616), 'specificity': np.float64(0.6811233211233212), 'f1_score': np.float64(0.48842117017848174)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6051612903225807), 'auroc': np.float64(0.6077336691086691), 'sensitivity': np.float64(0.45302884615384614), 'specificity': np.float64(0.7142857142857143), 'f1_score': np.float64(0.4434388564916764)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5780645161290322), 'auroc': np.float64(0.5972942612942613), 'sensitivity': np.float64(0.45615384615384613), 'specificity': np.float64(0.665934065934066), 'f1_score': np.float64(0.4206640420783835)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6116129032258064), 'auroc': np.float64(0.6071805555555556), 'sensitivity': np.float64(0.45264423076923077), 'specificity': np.float64(0.7252503052503052), 'f1_score': np.float64(0.4597098151652402)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5741935483870968), 'auroc': np.float64(0.6066924603174603), 'sensitivity': np.float64(0.5422115384615385), 'specificity': np.float64(0.596971916971917), 'f1_score': np.float64(0.5090498677271784)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6038709677419355), 'auroc': np.float64(0.6210436507936508), 'sensitivity': np.float64(0.4922596153846154), 'specificity': np.float64(0.6827838827838828), 'f1_score': np.float64(0.5074633918608094)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.590967741935484), 'auroc': np.float64(0.6273615689865689), 'sensitivity': np.float64(0.4732692307692307), 'specificity': np.float64(0.6739194139194138), 'f1_score': np.float64(0.4774020033520657)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6), 'auroc': np.float64(0.6292997557997558), 'sensitivity': np.float64(0.4016346153846154), 'specificity': np.float64(0.7400488400488401), 'f1_score': np.float64(0.4400064900543369)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5961290322580645), 'auroc': np.float64(0.6074865689865689), 'sensitivity': np.float64(0.4182692307692307), 'specificity': np.float64(0.7230280830280831), 'f1_score': np.float64(0.439304280356912)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5741935483870967), 'auroc': np.float64(0.6071422466422465), 'sensitivity': np.float64(0.4458173076923077), 'specificity': np.float64(0.6655433455433455), 'f1_score': np.float64(0.44822801814416646)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5703225806451614), 'auroc': np.float64(0.6125500610500612), 'sensitivity': np.float64(0.4705769230769231), 'specificity': np.float64(0.641098901098901), 'f1_score': np.float64(0.4602706930725506)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5883870967741935), 'auroc': np.float64(0.6113397435897435), 'sensitivity': np.float64(0.4428846153846154), 'specificity': np.float64(0.6918925518925518), 'f1_score': np.float64(0.4629668847312952)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5961290322580645), 'auroc': np.float64(0.6174676434676435), 'sensitivity': np.float64(0.41875), 'specificity': np.float64(0.723076923076923), 'f1_score': np.float64(0.40827754527458593)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5935483870967742), 'auroc': np.float64(0.6136143162393163), 'sensitivity': np.float64(0.39274038461538463), 'specificity': np.float64(0.7358485958485957), 'f1_score': np.float64(0.43003959050073204)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.584516129032258), 'auroc': np.float64(0.6037364163614164), 'sensitivity': np.float64(0.4677884615384615), 'specificity': np.float64(0.6675702075702075), 'f1_score': np.float64(0.4781688637616034)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5651612903225807), 'auroc': np.float64(0.6144467338217339), 'sensitivity': np.float64(0.48298076923076927), 'specificity': np.float64(0.6234188034188033), 'f1_score': np.float64(0.46765758612544134)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5832258064516129), 'auroc': np.float64(0.6067959401709403), 'sensitivity': np.float64(0.4421153846153846), 'specificity': np.float64(0.6824908424908425), 'f1_score': np.float64(0.44610748777287884)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5819354838709676), 'auroc': np.float64(0.6091915445665446), 'sensitivity': np.float64(0.403125), 'specificity': np.float64(0.7098901098901098), 'f1_score': np.float64(0.3954385686651147)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5819354838709677), 'auroc': np.float64(0.6168199023199022), 'sensitivity': np.float64(0.5487980769230769), 'specificity': np.float64(0.6061294261294261), 'f1_score': np.float64(0.5178462914561838)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.592258064516129), 'auroc': np.float64(0.5913353174603175), 'sensitivity': np.float64(0.3206730769230769), 'specificity': np.float64(0.7841514041514042), 'f1_score': np.float64(0.36772539079445593)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5858064516129032), 'auroc': np.float64(0.6153202075702076), 'sensitivity': np.float64(0.3649038461538462), 'specificity': np.float64(0.7426862026862027), 'f1_score': np.float64(0.40824812748053424)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5961290322580645), 'auroc': np.float64(0.6322196275946276), 'sensitivity': np.float64(0.4523076923076923), 'specificity': np.float64(0.6987545787545788), 'f1_score': np.float64(0.4594500125097502)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5832258064516129), 'auroc': np.float64(0.6012239010989011), 'sensitivity': np.float64(0.5079807692307693), 'specificity': np.float64(0.6367765567765568), 'f1_score': np.float64(0.4949633953456791)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5858064516129031), 'auroc': np.float64(0.6045894383394383), 'sensitivity': np.float64(0.4734615384615385), 'specificity': np.float64(0.6652747252747253), 'f1_score': np.float64(0.48066044697448873)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6207077228327227), 'sensitivity': np.float64(0.45519230769230773), 'specificity': np.float64(0.6985103785103784), 'f1_score': np.float64(0.4668583037107513)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193548), 'auroc': np.float64(0.5984024725274726), 'sensitivity': np.float64(0.265), 'specificity': np.float64(0.834920634920635), 'f1_score': np.float64(0.3372917452163998)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5793548387096774), 'auroc': np.float64(0.6036938339438339), 'sensitivity': np.float64(0.42125), 'specificity': np.float64(0.6920146520146521), 'f1_score': np.float64(0.4334778504616198)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6025806451612903), 'auroc': np.float64(0.5960231990231991), 'sensitivity': np.float64(0.34875), 'specificity': np.float64(0.781929181929182), 'f1_score': np.float64(0.39292915744528645)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5767741935483871), 'auroc': np.float64(0.5934603174603176), 'sensitivity': np.float64(0.5419711538461538), 'specificity': np.float64(0.6011477411477412), 'f1_score': np.float64(0.5123024205517235)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6064516129032257), 'auroc': np.float64(0.6327774725274725), 'sensitivity': np.float64(0.4025), 'specificity': np.float64(0.7514529914529915), 'f1_score': np.float64(0.4430849128074736)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5948387096774193), 'auroc': np.float64(0.6020618131868132), 'sensitivity': np.float64(0.3272115384615385), 'specificity': np.float64(0.7842490842490842), 'f1_score': np.float64(0.4003358143635795)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6152896825396826), 'sensitivity': np.float64(0.48923076923076925), 'specificity': np.float64(0.674163614163614), 'f1_score': np.float64(0.49591237312464936)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6025806451612903), 'auroc': np.float64(0.6286817765567766), 'sensitivity': np.float64(0.5171153846153846), 'specificity': np.float64(0.6629304029304028), 'f1_score': np.float64(0.517191355897723)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6064516129032258), 'auroc': np.float64(0.6071161477411479), 'sensitivity': np.float64(0.4954326923076923), 'specificity': np.float64(0.6851037851037851), 'f1_score': np.float64(0.5099849170437405)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.598709677419355), 'auroc': np.float64(0.6253855311355311), 'sensitivity': np.float64(0.5139903846153846), 'specificity': np.float64(0.6586324786324786), 'f1_score': np.float64(0.5121293561020497)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5741935483870967), 'auroc': np.float64(0.5899751221001222), 'sensitivity': np.float64(0.49826923076923074), 'specificity': np.float64(0.6277167277167277), 'f1_score': np.float64(0.4912933882396836)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.005_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6064516129032258), 'auroc': np.float64(0.6262681623931623), 'sensitivity': np.float64(0.5827884615384615), 'specificity': np.float64(0.6233455433455434), 'f1_score': np.float64(0.5498206390705423)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6), 'auroc': np.float64(0.6145375457875458), 'sensitivity': np.float64(0.48100961538461534), 'specificity': np.float64(0.6856654456654457), 'f1_score': np.float64(0.4603859800021503)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6180645161290321), 'auroc': np.float64(0.6443609584859584), 'sensitivity': np.float64(0.46749999999999997), 'specificity': np.float64(0.7248595848595849), 'f1_score': np.float64(0.5030067631010285)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5948387096774194), 'auroc': np.float64(0.6071199633699633), 'sensitivity': np.float64(0.43725961538461533), 'specificity': np.float64(0.7076434676434677), 'f1_score': np.float64(0.43584551688446105)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5883870967741935), 'auroc': np.float64(0.6158229548229548), 'sensitivity': np.float64(0.4929326923076923), 'specificity': np.float64(0.6569230769230769), 'f1_score': np.float64(0.486291235972943)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6179413919413919), 'sensitivity': np.float64(0.4797596153846154), 'specificity': np.float64(0.6829059829059829), 'f1_score': np.float64(0.495227235782994)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5948387096774193), 'auroc': np.float64(0.6285079365079366), 'sensitivity': np.float64(0.5237499999999999), 'specificity': np.float64(0.6455189255189255), 'f1_score': np.float64(0.5128575163398693)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.62718894993895), 'sensitivity': np.float64(0.5399038461538461), 'specificity': np.float64(0.6392918192918193), 'f1_score': np.float64(0.50695403087143)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.62718894993895), 'sensitivity': np.float64(0.5399038461538461), 'specificity': np.float64(0.6392918192918193), 'f1_score': np.float64(0.50695403087143)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5793548387096774), 'auroc': np.float64(0.6015364774114774), 'sensitivity': np.float64(0.5298076923076923), 'specificity': np.float64(0.6148473748473748), 'f1_score': np.float64(0.5106070333565469)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5870967741935484), 'auroc': np.float64(0.6274351343101343), 'sensitivity': np.float64(0.47043269230769236), 'specificity': np.float64(0.6696947496947496), 'f1_score': np.float64(0.47638658366965086)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6064516129032258), 'auroc': np.float64(0.6234029304029305), 'sensitivity': np.float64(0.5113942307692307), 'specificity': np.float64(0.6744078144078144), 'f1_score': np.float64(0.5146218693304953)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5806451612903226), 'auroc': np.float64(0.5992167277167277), 'sensitivity': np.float64(0.4617788461538462), 'specificity': np.float64(0.6656898656898657), 'f1_score': np.float64(0.4550614179827662)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5845161290322581), 'auroc': np.float64(0.6025323565323565), 'sensitivity': np.float64(0.5235576923076923), 'specificity': np.float64(0.6280341880341881), 'f1_score': np.float64(0.5110269808631085)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6038709677419355), 'auroc': np.float64(0.6080467796092796), 'sensitivity': np.float64(0.3646153846153846), 'specificity': np.float64(0.7734310134310134), 'f1_score': np.float64(0.389452506372977)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6103225806451612), 'auroc': np.float64(0.6025903540903542), 'sensitivity': np.float64(0.47697115384615385), 'specificity': np.float64(0.7051282051282052), 'f1_score': np.float64(0.500284421460892)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5883870967741934), 'auroc': np.float64(0.621765873015873), 'sensitivity': np.float64(0.49274038461538455), 'specificity': np.float64(0.6569474969474969), 'f1_score': np.float64(0.4868570690112852)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6226712454212453), 'sensitivity': np.float64(0.4894230769230769), 'specificity': np.float64(0.6766056166056165), 'f1_score': np.float64(0.49749789172188574)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.584516129032258), 'auroc': np.float64(0.6214934371184371), 'sensitivity': np.float64(0.5114903846153845), 'specificity': np.float64(0.636947496947497), 'f1_score': np.float64(0.5003293010703759)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6271220238095239), 'sensitivity': np.float64(0.5170192307692307), 'specificity': np.float64(0.6566300366300365), 'f1_score': np.float64(0.5163238081233269)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.590967741935484), 'auroc': np.float64(0.6061187423687423), 'sensitivity': np.float64(0.45240384615384616), 'specificity': np.float64(0.6898656898656899), 'f1_score': np.float64(0.4689328660314251)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6092231379731381), 'sensitivity': np.float64(0.5233653846153846), 'specificity': np.float64(0.6497191697191698), 'f1_score': np.float64(0.5142062093147519)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6271220238095239), 'sensitivity': np.float64(0.5170192307692307), 'specificity': np.float64(0.6566300366300365), 'f1_score': np.float64(0.5163238081233269)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5883870967741935), 'auroc': np.float64(0.613236568986569), 'sensitivity': np.float64(0.4090865384615385), 'specificity': np.float64(0.7164102564102565), 'f1_score': np.float64(0.4249660019427461)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5883870967741935), 'auroc': np.float64(0.613236568986569), 'sensitivity': np.float64(0.4090865384615385), 'specificity': np.float64(0.7164102564102565), 'f1_score': np.float64(0.4249660019427461)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5922580645161291), 'auroc': np.float64(0.6184772588522589), 'sensitivity': np.float64(0.5081249999999999), 'specificity': np.float64(0.6521367521367522), 'f1_score': np.float64(0.5040671636478049)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6), 'auroc': np.float64(0.6257521367521367), 'sensitivity': np.float64(0.5391346153846154), 'specificity': np.float64(0.6433211233211232), 'f1_score': np.float64(0.5270466854591099)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5832258064516129), 'auroc': np.float64(0.600598901098901), 'sensitivity': np.float64(0.41221153846153846), 'specificity': np.float64(0.7054212454212455), 'f1_score': np.float64(0.4137945845927676)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5780645161290322), 'auroc': np.float64(0.6062307692307691), 'sensitivity': np.float64(0.3997115384615385), 'specificity': np.float64(0.7054212454212454), 'f1_score': np.float64(0.40835590835590835)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6116129032258064), 'auroc': np.float64(0.631260225885226), 'sensitivity': np.float64(0.4362980769230769), 'specificity': np.float64(0.7360439560439561), 'f1_score': np.float64(0.452281935200348)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6167741935483871), 'auroc': np.float64(0.6280322039072039), 'sensitivity': np.float64(0.4112980769230769), 'specificity': np.float64(0.7624175824175825), 'f1_score': np.float64(0.44226828186682204)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5845161290322581), 'auroc': np.float64(0.6010986721611722), 'sensitivity': np.float64(0.4492307692307692), 'specificity': np.float64(0.681050061050061), 'f1_score': np.float64(0.4652088473043256)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5819354838709676), 'auroc': np.float64(0.6125503663003663), 'sensitivity': np.float64(0.5018269230769231), 'specificity': np.float64(0.638949938949939), 'f1_score': np.float64(0.49545789150978087)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.584516129032258), 'auroc': np.float64(0.6108977411477411), 'sensitivity': np.float64(0.5296634615384616), 'specificity': np.float64(0.6233455433455434), 'f1_score': np.float64(0.5108871357303547)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5961290322580645), 'auroc': np.float64(0.6239855006105006), 'sensitivity': np.float64(0.4921634615384615), 'specificity': np.float64(0.6696703296703296), 'f1_score': np.float64(0.5024522972763491)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5858064516129031), 'auroc': np.float64(0.5918551587301588), 'sensitivity': np.float64(0.3115865384615385), 'specificity': np.float64(0.7798534798534799), 'f1_score': np.float64(0.3453951277480689)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5909677419354838), 'auroc': np.float64(0.6151724664224665), 'sensitivity': np.float64(0.42408653846153843), 'specificity': np.float64(0.7095238095238094), 'f1_score': np.float64(0.4536658044397982)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5754838709677419), 'auroc': np.float64(0.6058722527472528), 'sensitivity': np.float64(0.49812500000000004), 'specificity': np.float64(0.6297680097680097), 'f1_score': np.float64(0.4707405312126708)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.590967741935484), 'auroc': np.float64(0.6179916056166056), 'sensitivity': np.float64(0.6266346153846154), 'specificity': np.float64(0.5663736263736263), 'f1_score': np.float64(0.5582005970682042)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5987096774193548), 'auroc': np.float64(0.6209449023199023), 'sensitivity': np.float64(0.6110096153846154), 'specificity': np.float64(0.5905494505494506), 'f1_score': np.float64(0.5563560647888893)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.5982803724053725), 'sensitivity': np.float64(0.5517307692307692), 'specificity': np.float64(0.6322344322344321), 'f1_score': np.float64(0.5087715441489621)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5729032258064516), 'auroc': np.float64(0.581181623931624), 'sensitivity': np.float64(0.47139423076923076), 'specificity': np.float64(0.6461050061050061), 'f1_score': np.float64(0.4446691872667822)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5922580645161291), 'auroc': np.float64(0.6147847222222222), 'sensitivity': np.float64(0.4360096153846154), 'specificity': np.float64(0.7024908424908425), 'f1_score': np.float64(0.45594474367167237)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6103225806451613), 'auroc': np.float64(0.6165181623931624), 'sensitivity': np.float64(0.45264423076923077), 'specificity': np.float64(0.7230280830280831), 'f1_score': np.float64(0.45979565677159434)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5948387096774193), 'auroc': np.float64(0.635979242979243), 'sensitivity': np.float64(0.5640384615384615), 'specificity': np.float64(0.6170207570207571), 'f1_score': np.float64(0.5335882650259196)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6210804334554335), 'sensitivity': np.float64(0.3778846153846154), 'specificity': np.float64(0.7538217338217338), 'f1_score': np.float64(0.40590880371932103)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6090322580645161), 'auroc': np.float64(0.633764652014652), 'sensitivity': np.float64(0.46447115384615384), 'specificity': np.float64(0.7116971916971917), 'f1_score': np.float64(0.49294691228525067)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6266092796092797), 'sensitivity': np.float64(0.41538461538461535), 'specificity': np.float64(0.7274481074481074), 'f1_score': np.float64(0.4282645729500903)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.590967741935484), 'auroc': np.float64(0.6154758852258853), 'sensitivity': np.float64(0.35), 'specificity': np.float64(0.7626373626373626), 'f1_score': np.float64(0.3636087361724543)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5806451612903226), 'auroc': np.float64(0.6095006105006106), 'sensitivity': np.float64(0.253125), 'specificity': np.float64(0.8131868131868132), 'f1_score': np.float64(0.2828603603603604)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6), 'auroc': np.float64(0.6190602869352869), 'sensitivity': np.float64(0.4767788461538462), 'specificity': np.float64(0.6874725274725275), 'f1_score': np.float64(0.49487579989976577)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5909677419354838), 'auroc': np.float64(0.6182599206349206), 'sensitivity': np.float64(0.40894230769230766), 'specificity': np.float64(0.7207326007326007), 'f1_score': np.float64(0.4296720092401893)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5896774193548386), 'auroc': np.float64(0.6174700854700854), 'sensitivity': np.float64(0.3964423076923077), 'specificity': np.float64(0.7273260073260073), 'f1_score': np.float64(0.42240166803284024)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5909677419354838), 'auroc': np.float64(0.6176156898656899), 'sensitivity': np.float64(0.4422115384615385), 'specificity': np.float64(0.6958241758241759), 'f1_score': np.float64(0.4575024628019502)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5909677419354838), 'auroc': np.float64(0.6176156898656899), 'sensitivity': np.float64(0.4422115384615385), 'specificity': np.float64(0.6958241758241759), 'f1_score': np.float64(0.4575024628019502)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6064516129032258), 'auroc': np.float64(0.6218637057387058), 'sensitivity': np.float64(0.5426923076923077), 'specificity': np.float64(0.6525274725274726), 'f1_score': np.float64(0.5259549445967957)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6116129032258064), 'auroc': np.float64(0.6320413614163615), 'sensitivity': np.float64(0.4611057692307693), 'specificity': np.float64(0.7182173382173381), 'f1_score': np.float64(0.48176516271581704)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6064516129032258), 'auroc': np.float64(0.6254822954822955), 'sensitivity': np.float64(0.4642307692307693), 'specificity': np.float64(0.7072283272283272), 'f1_score': np.float64(0.4788317500345052)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.584516129032258), 'auroc': np.float64(0.61702442002442), 'sensitivity': np.float64(0.43432692307692305), 'specificity': np.float64(0.6923076923076923), 'f1_score': np.float64(0.4157358295797685)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6012903225806452), 'auroc': np.float64(0.6198670634920636), 'sensitivity': np.float64(0.4609615384615385), 'specificity': np.float64(0.7002930402930403), 'f1_score': np.float64(0.4730805954686552)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5883870967741937), 'auroc': np.float64(0.6256016483516482), 'sensitivity': np.float64(0.36230769230769233), 'specificity': np.float64(0.7494261294261294), 'f1_score': np.float64(0.3832528215421906)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5987096774193548), 'auroc': np.float64(0.5902211538461538), 'sensitivity': np.float64(0.30874999999999997), 'specificity': np.float64(0.8041758241758241), 'f1_score': np.float64(0.3725588863650763)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5819354838709678), 'auroc': np.float64(0.6121744505494505), 'sensitivity': np.float64(0.3560576923076923), 'specificity': np.float64(0.7428327228327228), 'f1_score': np.float64(0.3804197340150615)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6025806451612903), 'auroc': np.float64(0.6332045177045177), 'sensitivity': np.float64(0.5174038461538462), 'specificity': np.float64(0.6633455433455433), 'f1_score': np.float64(0.5146666754923636)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5819354838709677), 'auroc': np.float64(0.6070583028083029), 'sensitivity': np.float64(0.49874999999999997), 'specificity': np.float64(0.6412454212454212), 'f1_score': np.float64(0.4947301866756092)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5690322580645162), 'auroc': np.float64(0.5919618437118437), 'sensitivity': np.float64(0.3111057692307692), 'specificity': np.float64(0.750940170940171), 'f1_score': np.float64(0.34694980402153325)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6244333028083029), 'sensitivity': np.float64(0.5452403846153846), 'specificity': np.float64(0.6343101343101344), 'f1_score': np.float64(0.527656603341829)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6077419354838709), 'auroc': np.float64(0.618885531135531), 'sensitivity': np.float64(0.4892788461538462), 'specificity': np.float64(0.691916971916972), 'f1_score': np.float64(0.5050577878202349)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5922580645161291), 'auroc': np.float64(0.6138574481074481), 'sensitivity': np.float64(0.5051442307692308), 'specificity': np.float64(0.6546275946275946), 'f1_score': np.float64(0.5023196924118971)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5741935483870968), 'auroc': np.float64(0.610840811965812), 'sensitivity': np.float64(0.38975961538461534), 'specificity': np.float64(0.7051526251526251), 'f1_score': np.float64(0.41714802586807787)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5767741935483871), 'auroc': np.float64(0.6159314713064712), 'sensitivity': np.float64(0.3645673076923077), 'specificity': np.float64(0.7269597069597069), 'f1_score': np.float64(0.4037261531038121)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5767741935483871), 'auroc': np.float64(0.6149945818070819), 'sensitivity': np.float64(0.4922596153846154), 'specificity': np.float64(0.6367032967032966), 'f1_score': np.float64(0.48826760989592444)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5870967741935484), 'auroc': np.float64(0.6140061050061051), 'sensitivity': np.float64(0.5113942307692307), 'specificity': np.float64(0.6413431013431014), 'f1_score': np.float64(0.5026739532145897)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5974193548387097), 'auroc': np.float64(0.6226607905982905), 'sensitivity': np.float64(0.5361538461538462), 'specificity': np.float64(0.6410744810744811), 'f1_score': np.float64(0.5208717249692676)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.598709677419355), 'auroc': np.float64(0.6178884310134312), 'sensitivity': np.float64(0.3400961538461539), 'specificity': np.float64(0.782100122100122), 'f1_score': np.float64(0.39734162747963137)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.0005_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5987096774193549), 'auroc': np.float64(0.6109577228327229), 'sensitivity': np.float64(0.48918269230769235), 'specificity': np.float64(0.6763369963369963), 'f1_score': np.float64(0.5014314936108571)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5909677419354838), 'auroc': np.float64(0.6186546092796092), 'sensitivity': np.float64(0.41721153846153847), 'specificity': np.float64(0.7135531135531135), 'f1_score': np.float64(0.44767873246613404)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5819354838709677), 'auroc': np.float64(0.6181150793650795), 'sensitivity': np.float64(0.5168269230769231), 'specificity': np.float64(0.6275213675213676), 'f1_score': np.float64(0.5016443094112997)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden64_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6129032258064517), 'auroc': np.float64(0.6363940781440782), 'sensitivity': np.float64(0.5110096153846154), 'specificity': np.float64(0.6852014652014653), 'f1_score': np.float64(0.5230660315812171)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6012903225806451), 'auroc': np.float64(0.6301892551892553), 'sensitivity': np.float64(0.6140384615384615), 'specificity': np.float64(0.5926739926739926), 'f1_score': np.float64(0.5576775069033348)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6051612903225806), 'auroc': np.float64(0.631357905982906), 'sensitivity': np.float64(0.5427403846153845), 'specificity': np.float64(0.6500610500610501), 'f1_score': np.float64(0.5207340473893856)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193548), 'auroc': np.float64(0.6280598290598292), 'sensitivity': np.float64(0.4433653846153846), 'specificity': np.float64(0.7098168498168499), 'f1_score': np.float64(0.44648150640881823)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.590967741935484), 'auroc': np.float64(0.6287080280830282), 'sensitivity': np.float64(0.5358653846153846), 'specificity': np.float64(0.63008547008547), 'f1_score': np.float64(0.5163188457807178)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6077419354838709), 'auroc': np.float64(0.6145717338217339), 'sensitivity': np.float64(0.4578846153846154), 'specificity': np.float64(0.7136507936507936), 'f1_score': np.float64(0.49146276021103663)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5922580645161291), 'auroc': np.float64(0.6086141636141637), 'sensitivity': np.float64(0.3796153846153846), 'specificity': np.float64(0.7420512820512821), 'f1_score': np.float64(0.42766347828897205)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5948387096774194), 'auroc': np.float64(0.6250946275946276), 'sensitivity': np.float64(0.5890865384615385), 'specificity': np.float64(0.5992918192918193), 'f1_score': np.float64(0.5458323577885036)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5845161290322581), 'auroc': np.float64(0.6038550824175825), 'sensitivity': np.float64(0.4014903846153846), 'specificity': np.float64(0.7135286935286935), 'f1_score': np.float64(0.39990941597346363)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6051612903225807), 'auroc': np.float64(0.5960726495726496), 'sensitivity': np.float64(0.4829326923076923), 'specificity': np.float64(0.6916239316239317), 'f1_score': np.float64(0.48587418067969496)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6025806451612903), 'auroc': np.float64(0.6146182844932845), 'sensitivity': np.float64(0.43716346153846153), 'specificity': np.float64(0.7208058608058608), 'f1_score': np.float64(0.44450867876494166)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6012903225806451), 'auroc': np.float64(0.6282513736263736), 'sensitivity': np.float64(0.44966346153846154), 'specificity': np.float64(0.7098168498168499), 'f1_score': np.float64(0.4550735820827855)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6103225806451612), 'auroc': np.float64(0.6357896825396825), 'sensitivity': np.float64(0.43125), 'specificity': np.float64(0.7384615384615385), 'f1_score': np.float64(0.42805300639907584)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5961290322580645), 'auroc': np.float64(0.6011688034188034), 'sensitivity': np.float64(0.41745192307692314), 'specificity': np.float64(0.7222710622710623), 'f1_score': np.float64(0.4309351156867714)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden16_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5987096774193548), 'auroc': np.float64(0.6145216727716729), 'sensitivity': np.float64(0.4492307692307692), 'specificity': np.float64(0.7052503052503052), 'f1_score': np.float64(0.46371949643244903)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5948387096774195), 'auroc': np.float64(0.6204407814407815), 'sensitivity': np.float64(0.396875), 'specificity': np.float64(0.7362637362637362), 'f1_score': np.float64(0.38657677911708116)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size32_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.6025806451612904), 'auroc': np.float64(0.5972081043956043), 'sensitivity': np.float64(0.40615384615384614), 'specificity': np.float64(0.7428571428571429), 'f1_score': np.float64(0.406535986269148)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5780645161290322), 'auroc': np.float64(0.6069697802197802), 'sensitivity': np.float64(0.5607211538461538), 'specificity': np.float64(0.5902564102564103), 'f1_score': np.float64(0.5219912249779128)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size16_hidden32_num_layers2_lr0.001_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5793548387096774), 'auroc': np.float64(0.6193869047619047), 'sensitivity': np.float64(0.5361538461538462), 'specificity': np.float64(0.6103296703296703), 'f1_score': np.float64(0.5031457431457431)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size32_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5870967741935484), 'auroc': np.float64(0.6133998778998779), 'sensitivity': np.float64(0.4905288461538461), 'specificity': np.float64(0.6571428571428573), 'f1_score': np.float64(0.44478565423549965)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0_batch_size64_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5935483870967742), 'auroc': np.float64(0.6353730158730159), 'sensitivity': np.float64(0.4110096153846154), 'specificity': np.float64(0.7224175824175824), 'f1_score': np.float64(0.4352935152372638)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden16_num_layers2_lr0.005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.5793548387096774), 'auroc': np.float64(0.6282884615384615), 'sensitivity': np.float64(0.4562019230769231), 'specificity': np.float64(0.6681318681318682), 'f1_score': np.float64(0.4088176420637678)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size16_hidden32_num_layers2_lr0.0005_epochs500_edge_percent_to_keep0.1_k5_
+{'accuracy': np.float64(0.6), 'auroc': np.float64(0.6259224664224665), 'sensitivity': np.float64(0.4741346153846154), 'specificity': np.float64(0.68991452991453), 'f1_score': np.float64(0.488043624842013)}
+--------------------------------
+_datasetADHD_modef_hyper_k5_edge_dir_prefixhyper_pearson_correlation_atlasAAL116_weight_decay0.0005_batch_size64_hidden32_num_layers2_lr0.001_epochs100_edge_percent_to_keep0.2_k5_
+{'accuracy': np.float64(0.5870967741935484), 'auroc': np.float64(0.6195947802197802), 'sensitivity': np.float64(0.4394230769230769), 'specificity': np.float64(0.6916727716727717), 'f1_score': np.float64(0.45653387039911025)}
+--------------------------------
